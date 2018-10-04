@@ -1,0 +1,9 @@
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Domain\bin\Debug\JKCS.SM.Domain.dll.config
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Domain\bin\Debug\JKCS.SM.Domain.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Domain\bin\Debug\JKCS.SM.Domain.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Domain\bin\Debug\EntityFramework.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Domain\bin\Debug\EntityFramework.xml
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Domain\obj\Debug\JKCS.SM.Domain.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Domain\obj\Debug\JKCS.SM.Domain.pdb

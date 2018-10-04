@@ -1,0 +1,7 @@
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices.Contract\bin\Debug\JKCS.SM.BusinessServices.Contract.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices.Contract\bin\Debug\JKCS.SM.BusinessServices.Contract.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices.Contract\obj\Debug\JKCS.SM.BusinessServices.Contract.csprojResolveAssemblyReference.cache
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices.Contract\obj\Debug\JKCS.SM.BusinessServices.Contract.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices.Contract\obj\Debug\JKCS.SM.BusinessServices.Contract.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices.Contract\bin\Debug\JKCS.SM.Domain.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices.Contract\bin\Debug\JKCS.SM.Domain.pdb

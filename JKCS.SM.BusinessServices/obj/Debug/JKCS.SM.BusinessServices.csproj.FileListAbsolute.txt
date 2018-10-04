@@ -1,0 +1,13 @@
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\JKCS.SM.BusinessServices.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\JKCS.SM.BusinessServices.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\obj\Debug\JKCS.SM.BusinessServices.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\obj\Debug\JKCS.SM.BusinessServices.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\JKCS.SM.BusinessServices.Contract.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\JKCS.SM.Domain.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\JKCS.SM.Repository.Contract.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\EntityFramework.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\JKCS.SM.BusinessServices.Contract.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\JKCS.SM.Domain.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\JKCS.SM.Repository.Contract.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\bin\Debug\EntityFramework.xml
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.BusinessServices\obj\Debug\JKCS.SM.BusinessServices.csprojResolveAssemblyReference.cache

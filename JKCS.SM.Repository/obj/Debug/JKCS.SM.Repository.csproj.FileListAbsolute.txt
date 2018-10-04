@@ -1,0 +1,16 @@
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\JKCS.SM.Repository.dll.config
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\JKCS.SM.Repository.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\JKCS.SM.Repository.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\EntityFramework.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\JKCS.SM.Domain.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\JKCS.SM.Repository.Contract.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\JKCS.SM.Domain.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\JKCS.SM.Repository.Contract.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\EntityFramework.xml
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\obj\Debug\JKCS.SM.Repository.csprojResolveAssemblyReference.cache
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\obj\Debug\JKCS.SM.Repository.dll
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\obj\Debug\JKCS.SM.Repository.pdb
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\obj\Debug\JKCS.SM.Repository.Migrations.InitialDB.resources
+D:\Practicles\Angular-5-With-Web-API-CRUD-Application-master\JKCS.SM\JKCS.SM.Repository\obj\Debug\JKCS.SM.Repository.csproj.GenerateResource.Cache
